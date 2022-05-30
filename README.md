@@ -81,13 +81,14 @@ endmodule
 ![ouput](https://github.com/Saibandhavi75/Exercise-07-Multiplexer-and-De--multiplexer/blob/main/EX-71.png?raw=true)
 
 ### TIMING DIGRAMS  
-![ouput](https://github.com/Saibandhavi75/Exercise-07-Multiplexer-and-De--multiplexer/blob/main/EX-72.png?raw=true)
-
-![ouput](https://github.com/Saibandhavi75/Exercise-07-Multiplexer-and-De--multiplexer/blob/main/EX-73.png?raw=true)
-
-![ouput](https://github.com/Saibandhavi75/Exercise-07-Multiplexer-and-De--multiplexer/blob/main/EX-74.png?raw=true)
 
 ![ouput](https://github.com/Saibandhavi75/Exercise-07-Multiplexer-and-De--multiplexer/blob/main/EX-75.png?raw=true)
+
+![output](https://github.com/Saibandhavi75/Exercise-07-Multiplexer-and-De--multiplexer/blob/main/72.png?raw=true)
+
+![output](https://github.com/Saibandhavi75/Exercise-07-Multiplexer-and-De--multiplexer/blob/main/73.png?raw=true)
+
+![output](https://github.com/Saibandhavi75/Exercise-07-Multiplexer-and-De--multiplexer/blob/main/74.png?raw=true)
 
 ### TRUTH TABLE 
 
